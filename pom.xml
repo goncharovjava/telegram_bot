@@ -8,11 +8,11 @@
 		<version>3.5.0-SNAPSHOT</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.github.javarushcommunity</groupId>
+	<groupId>com.github.goncharovjava</groupId>
 	<artifactId>javarush-telegrambot</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>Javarush TelegramBot</name>
-	<description>Telgeram bot for Javarush from community to community</description>
+	<version>0.1.0-SNAPSHOT</version>
+	<name>TelegramBot</name>
+	<description>Telgeram bot</description>
 	<url/>
 	<licenses>
 		<license/>
